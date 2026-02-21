@@ -8,12 +8,12 @@ A list of sites I found particularly cool or helpful. Format heavily inspired by
     - [Databases](#databases)
     - [Tools](#utility)
         - [Documents](#documents)
-        - [Programming](#programming)
         - [Graphics](#graphics)
     - [Helpful Sites](#helpful-sites)
         - [Hardware](#hardware)
         - [Software](#software)
         - [Math](#math)
+    - [Packages](#packages)
     - [Fun Sites](#fun-sites)
     - [Privacy Sites](#privacy-sites)
         - [Articles](#articles)
@@ -29,15 +29,12 @@ A list of sites I found particularly cool or helpful. Format heavily inspired by
 1. [Wikipedia Backup](https://drive.proton.me/urls/E20HD2HWMM#kzI4hvMsUDZb) - Full wikipedia download
 
 
+
 ## Tools
 
 #### Documents
 1. [Ascii Diagram Maker](https://asciiflow.com/#/) - Creating diagrams using ascii art
 1. [Vertopal](https://www.vertopal.com/) - Best online document converter
-
-#### Programming
-1. [Raylib](https://www.raylib.com/) - Easy library for video game design
-1. [Code Carbon](https://codecarbon.io/) - Analyzing CO2 emissions from a program
 
 #### Graphic Design
 1. [Color Palette Generator](https://coolors.co/) - Probably the best and easiest to use for graphic design
@@ -61,12 +58,20 @@ A list of sites I found particularly cool or helpful. Format heavily inspired by
 1. [Connecting to Eurodam](https://grok.lsu.edu/article.aspx?articleid=17398) - How to connect to Eurodam with advanced wifi settings (like on a chromebook)
 1. [Git Grader](https://gitroll.io/) - Site that grades your github for job-seeking purposes
 1. [Code Language Benchmarks](https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html) - Benchmarks for programming languages
+1. [Code Carbon](https://codecarbon.io/) - Analyzing CO2 emissions from a program
 
 #### Math
 1. [Overleaf](https://www.overleaf.com/) - Free online LaTeX editor
 1. [LaTeX Symbols](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols) - How to use every special LaTeX charecter ($\Sigma, \Omega, $ etc)
 1. [LaTeX Diagram Builder](https://tikzmaker.com/editor) - GUI for building diagrams in LaTeX using the tikz/tikzpicture package
 1. [Combination Calculator](https://www.statskingdom.com/combinations-calculator.html) - Visualing combinatorics like permutations with formulas
+
+
+
+## Packages
+1. [Raylib](https://www.raylib.com/) - Easy library for video game design
+1. [Witr](https://github.com/pranshuparmar/witr) - CLI tools that tell you why a process is running
+1. [Hyperfine](https://www.opensourceprojects.dev/post/6416de39-e7e4-4876-85a1-fd11d949784f) - Benchmark terminal commands  
 
 
 
