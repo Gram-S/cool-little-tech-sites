@@ -6,7 +6,7 @@ A list of sites I found particularly cool or helpful. Format heavily inspired by
 - [Cool Little Tech Sites](#cool-little-tech-sites--)
     - [Table of Contents](#table-of-contents)
     - [Other Lists](#other-lists)
-    - [Utility](#utility)
+    - [Tools](#utility)
         - [Documents](#documents)
         - [Graphics](#graphics)
     - [Helpful Sites](#helpful-sites)
@@ -16,7 +16,7 @@ A list of sites I found particularly cool or helpful. Format heavily inspired by
     - [Fun Sites](#fun-sites)
     - [Privacy Sites](#privacy-sites)
         - [Articles](#articles)
-        - [Tools](#tools)
+        - [Tests](#tools)
     - [Tutorials](#tutorials)
 <!-- /MarkdownTOC -->
 
@@ -27,15 +27,18 @@ A list of sites I found particularly cool or helpful. Format heavily inspired by
 1. [AlternativeTo](https://alternativeto.net/) - Big tech alternatives, quanity over quality approach
 
 
-## Utility
+
+## Tools
+
+#### Documents
+1. [Ascii Diagram Maker](https://asciiflow.com/#/) - Creating diagrams using ascii art
+1. [Vertopal](https://www.vertopal.com/) - Best online document converter
 
 #### Graphic Design
 1. [Color Palette Generator](https://coolors.co/) - Probably the best and easiest to use for graphic design
 1. [Palette Manager](https://supacolors.studio/system) - For managing multiple palettes, significantly complicated to use
 1. [Image Measurement](https://imageonline.io/measure-image/) - Taking measurements within images using a reference line
 
-#### Docuements
-1. [Vertopal](https://www.vertopal.com/) - Best online document converter
 
 
 ## Helpful Sites
@@ -81,7 +84,7 @@ A list of sites I found particularly cool or helpful. Format heavily inspired by
 1. [See Downloads](https://iknowwhatyoudownload.com/en/peer/) - Lookup for IP addresses regarding which torrents they downloaded
 1. [OSNIT Framework](https://osintframework.com/) - Comprehensive list of sites and tools for gathering information
 
-#### Tools
+#### Tests
 1. [Atlas of Surveillance](https://www.atlasofsurveillance.org/) - Tracks surveillance media per location
 1. [Cover your Tracks](https://coveryourtracks.eff.org/) - Browser fingerprinting test
   
