@@ -8,7 +8,7 @@ A list of sites I found particularly cool or helpful. Format heavily inspired by
     - [Databases](#databases)
     - [Tools](#utility)
         - [Documents](#documents)
-        - [Graphics](#graphics)
+        - [Graphic Design](#graphic-design)
     - [Helpful Sites](#helpful-sites)
         - [Hardware](#hardware)
         - [Software](#software)
