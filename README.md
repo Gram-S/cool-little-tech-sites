@@ -5,9 +5,10 @@ A list of sites I found particularly cool or helpful. Format heavily inspired by
 <!-- MarkdownTOC depth=4 -->
 - [Cool Little Tech Sites](#cool-little-tech-sites--)
     - [Table of Contents](#table-of-contents)
-    - [Other Lists](#other-lists)
+    - [Databases](#databases)
     - [Tools](#utility)
         - [Documents](#documents)
+        - [Programming](#programming)
         - [Graphics](#graphics)
     - [Helpful Sites](#helpful-sites)
         - [Hardware](#hardware)
@@ -20,12 +21,12 @@ A list of sites I found particularly cool or helpful. Format heavily inspired by
     - [Tutorials](#tutorials)
 <!-- /MarkdownTOC -->
 
-## Other lists
+## Databases
 
 1. [Free Software](https://github.com/johnjago/awesome-free-software) - List of free software organized by type
 1. [Web Foss Sites](https://x.com/Itsfoss/status/2011453723252514963) - 13 Open Source Apps usuable in a web browser
 1. [AlternativeTo](https://alternativeto.net/) - Big tech alternatives, quanity over quality approach
-
+1. [Wikipedia Backup](https://drive.proton.me/urls/E20HD2HWMM#kzI4hvMsUDZb) - Full wikipedia download
 
 
 ## Tools
@@ -34,11 +35,16 @@ A list of sites I found particularly cool or helpful. Format heavily inspired by
 1. [Ascii Diagram Maker](https://asciiflow.com/#/) - Creating diagrams using ascii art
 1. [Vertopal](https://www.vertopal.com/) - Best online document converter
 
+#### Programming
+1. [Raylib](https://www.raylib.com/) - Easy library for video game design
+1. [Code Carbon](https://codecarbon.io/) - Analyzing CO2 emissions from a program
+
 #### Graphic Design
 1. [Color Palette Generator](https://coolors.co/) - Probably the best and easiest to use for graphic design
 1. [Palette Manager](https://supacolors.studio/system) - For managing multiple palettes, significantly complicated to use
 1. [Image Measurement](https://imageonline.io/measure-image/) - Taking measurements within images using a reference line
-
+1. [Black/White Alternatives](https://x.com/UiSavior/status/2018290266696728896) - Alternatives to the colors black and white
+ 
 
 
 ## Helpful Sites
@@ -54,7 +60,6 @@ A list of sites I found particularly cool or helpful. Format heavily inspired by
 1. [Free CSS Frontend](https://freefrontend.com/) - Stuff like custom buttons, sliders, dioramas, and games to add to a website
 1. [Connecting to Eurodam](https://grok.lsu.edu/article.aspx?articleid=17398) - How to connect to Eurodam with advanced wifi settings (like on a chromebook)
 1. [Git Grader](https://gitroll.io/) - Site that grades your github for job-seeking purposes
-1. [Code Carbon](https://codecarbon.io/) - Analyzing CO2 emissions from a program
 1. [Code Language Benchmarks](https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html) - Benchmarks for programming languages
 
 #### Math
@@ -68,11 +73,13 @@ A list of sites I found particularly cool or helpful. Format heavily inspired by
 ## Fun Sites
 1. [Joke Research Articles](https://improbable.com/) - Mostly gag scientific publishcations
 1. [Doomscroll Wikipedia](https://xikipedia.org/) - Wikipedia but social media, demonstrates how the algorithm learns from you
+1. [Super Monkey Ball](https://monkeyball-online.pages.dev/) - Play super monkey ball in your browser
 1. [Directory Dungeon](https://dialed.gg/) - Upcoming steam game played in the windows file explorer
 1. [Brainrot IDE](https://www.cladlabs.ai/) - IDE with built in gambling / Social media
 1. [Ascii Art w/ Gradient Descent](https://github.com/stong/gradscii-art) - Pretty good Ascii art generator with cool math premise
 1. [Moltbook](https://www.moltbook.com/) - Watch dead internet theory unfold in real time
 1. [Color Recall Test](https://dialed.gg/) - Tests your ability to remember and create colors
+1. [Coffee Stains to Tex](https://ctan.org/pkg/coffeestains) - LaTeX package that allows you to add coffee stains to documents
 
 
 
@@ -93,8 +100,9 @@ A list of sites I found particularly cool or helpful. Format heavily inspired by
 ## Tutorials
 1. [Text Editor](https://viewsourcecode.org/snaptoken/kilo/) - Building your own text editor in C
 1. [Virtual Machine](https://www.jmeiners.com/lc3-vm/) - Building your own virtual machine in basic C/C++, requires binary arithmetic
+1. [Build SQL Database](https://cstack.github.io/db_tutorial/) - Informative C tutorial for how to build a database
 1. [Deep Ml](https://www.deep-ml.com/) - Machine Learning/Data Science practice
 1. [Draw.io Trick](https://github.com/jgraph/drawio/issues/1677) - Display line lengths in draw.io
 1. [Leetcode](https://leetcode.com/) - Coding challenges and practice
 1. [GetCracked](https://getcracked.io/) - More (better?) coding pracitce
-
+1. [Full Quantum Physics Course](https://x.com/brainrotpostig/status/2010141355972919541) - Physics 4200 Spring 2023 Dr. Brant Carlson lecture in 480p
