@@ -22,13 +22,12 @@ A list of sites I found particularly cool or helpful. Format heavily inspired by
 <!-- /MarkdownTOC -->
 
 ## Databases
-
 1. [Free Software](https://github.com/johnjago/awesome-free-software) - List of free software organized by type
 1. [Web Foss Sites](https://x.com/Itsfoss/status/2011453723252514963) - 13 Open Source Apps usuable in a web browser
 1. [AlternativeTo](https://alternativeto.net/) - Big tech alternatives, quanity over quality approach
 1. [Wikipedia Backup](https://drive.proton.me/urls/E20HD2HWMM#kzI4hvMsUDZb) - Full wikipedia download
 1. [Math and Science Courses](https://github.com/Developer-Y/math-science-video-lectures) - Comprehensive list of complete, free math and science courses w/ video lectures 
-
+1. [How to build X](https://github.com/codecrafters-io/build-your-own-x) - Comprehensive tutorials of code projects 
 
 
 ## Tools
@@ -36,6 +35,7 @@ A list of sites I found particularly cool or helpful. Format heavily inspired by
 #### Documents
 1. [Ascii Diagram Maker](https://asciiflow.com/#/) - Creating diagrams using ascii art
 1. [Vertopal](https://www.vertopal.com/) - Best online document converter
+1. [LLM Problem Benchmark](https://ccbench.org/#results) - How good is Ai solving problems not in their database?
 
 #### Graphic Design
 1. [Color Palette Generator](https://coolors.co/) - Probably the best and easiest to use for graphic design
@@ -54,6 +54,7 @@ A list of sites I found particularly cool or helpful. Format heavily inspired by
 1. [Linux Supported WiFi Adapters](https://github.com/morrownr/USB-WiFi/blob/main/home/USB_WiFi_Adapters_that_are_supported_with_Linux_in-kernel_drivers.md) - List of WiFi adapters that require no configuration on linux
 
 #### Software
+1. [Delphi Tools](https://delphi.tools/) - An enormous collection of easy to use graphic design tools like palette generators.
 1. [Free CSS templates](https://templatemo.com/page/1) - Free CSS templates for website designers
 1. [Free CSS Frontend](https://freefrontend.com/) - Stuff like custom buttons, sliders, dioramas, and games to add to a website
 1. [Connecting to Eurodam](https://grok.lsu.edu/article.aspx?articleid=17398) - How to connect to Eurodam with advanced wifi settings (like on a chromebook)
@@ -77,17 +78,20 @@ A list of sites I found particularly cool or helpful. Format heavily inspired by
 
 
 ## Fun Sites
+1. [Site Scroll](https://sitescroll.fun/) - Scroll through peoples eportfolios and personal sites
 1. [Joke Research Articles](https://improbable.com/) - Mostly gag scientific publishcations
 1. [Doomscroll Wikipedia](https://xikipedia.org/) - Wikipedia but social media, demonstrates how the algorithm learns from you
 1. [Super Monkey Ball](https://monkeyball-online.pages.dev/) - Play super monkey ball in your browser
+1. [Competitive Snake Online](https://eieio.games/blog/secure-massively-multiplayer-snake/) - Play snake with others using ssh
 1. [Directory Dungeon](https://dialed.gg/) - Upcoming steam game played in the windows file explorer
 1. [Brainrot IDE](https://www.cladlabs.ai/) - IDE with built in gambling / Social media
 1. [Ascii Art w/ Gradient Descent](https://github.com/stong/gradscii-art) - Pretty good Ascii art generator with cool math premise
 1. [Moltbook](https://www.moltbook.com/) - Watch dead internet theory unfold in real time
 1. [Color Recall Test](https://dialed.gg/) - Tests your ability to remember and create colors
 1. [Coffee Stains to Tex](https://ctan.org/pkg/coffeestains) - LaTeX package that allows you to add coffee stains to documents
-
-
+1. [Human or Not?](https://humanornot.so/) - Turing Test game where each player must decide if the other is Ai.
+1. [Your Ai Slop Bores Me](https://youraislopbores.me/) - Game where YOU'RE the llm generating art for others.
+1. [Powerscadle](https://www.powerscadle.com/infinite) - Guess which fictional character is stronger
 
 ## Privacy Sites 
 
