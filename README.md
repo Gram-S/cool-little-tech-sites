@@ -42,6 +42,7 @@ A list of sites I found particularly cool or helpful. Format heavily inspired by
 1. [Palette Manager](https://supacolors.studio/system) - For managing multiple palettes, significantly complicated to use
 1. [Image Measurement](https://imageonline.io/measure-image/) - Taking measurements within images using a reference line
 1. [Black/White Alternatives](https://x.com/UiSavior/status/2018290266696728896) - Alternatives to the colors black and white
+1. [Project Nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Turns a computer into an offline survival hub. Focus on Ai tools.
  
 
 
@@ -67,6 +68,7 @@ A list of sites I found particularly cool or helpful. Format heavily inspired by
 1. [LaTeX Symbols](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols) - How to use every special LaTeX charecter ($\Sigma, \Omega, $ etc)
 1. [LaTeX Diagram Builder](https://tikzmaker.com/editor) - GUI for building diagrams in LaTeX using the tikz/tikzpicture package
 1. [Combination Calculator](https://www.statskingdom.com/combinations-calculator.html) - Visualing combinatorics like permutations with formulas
+1. [Differential Growth Viewer](https://ekimroyrp.github.io/260308_DifferentialGrowth/) - Okay full disclosure I don't *actually* know what this does but it seems pretty cool. 
 
 
 
@@ -92,6 +94,7 @@ A list of sites I found particularly cool or helpful. Format heavily inspired by
 1. [Human or Not?](https://humanornot.so/) - Turing Test game where each player must decide if the other is Ai.
 1. [Your Ai Slop Bores Me](https://youraislopbores.me/) - Game where YOU'RE the llm generating art for others.
 1. [Powerscadle](https://www.powerscadle.com/infinite) - Guess which fictional character is stronger
+1. [Real or Slop?](https://slop.zackg.me/) - Gives PL research papers, decide which ones are real or Ai-Generated
 
 ## Privacy Sites 
 
