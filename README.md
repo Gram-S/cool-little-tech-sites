@@ -45,6 +45,8 @@ A list of sites I found particularly cool or helpful. Format heavily inspired by
 1. [Black/White Alternatives](https://x.com/UiSavior/status/2018290266696728896) - Alternatives to the colors black and white
 1. [Project Nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Turns a computer into an offline survival hub. Focus on Ai tools.
 1. [Adobe Palettes](https://color.adobe.com/create/color-wheel) - Probably the best color palette generator.
+1. [Sora's Pixel Converter](https://pixel-converter.ameniwa.com/) - A great Gui for creating/converting images to pixel art. 
+
  
 
 
@@ -65,6 +67,7 @@ A list of sites I found particularly cool or helpful. Format heavily inspired by
 1. [Code Language Benchmarks](https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html) - Benchmarks for programming languages
 1. [Code Carbon](https://codecarbon.io/) - Analyzing CO2 emissions from a program
 1. [Competitive Algorithms](https://cp-algorithms.com/) - Wikipedia but for algorithms
+1. [Browser Benchmark](https://browserbench.org/) - Benchmarks for browsers. 
 
 #### Math
 1. [Overleaf](https://www.overleaf.com/) - Free online LaTeX editor
@@ -113,6 +116,7 @@ A list of sites I found particularly cool or helpful. Format heavily inspired by
 1. [See Downloads](https://iknowwhatyoudownload.com/en/peer/) - Lookup for IP addresses regarding which torrents they downloaded.
 1. [OSNIT Framework](https://osintframework.com/) - Comprehensive list of sites and tools for gathering information.
 1. [Life without plasitc](https://lifewithoutplastic.com/pages/stainless-steel) - Techinically a health site but really cool, if we ever develop nanomachines with spying capabilities this could come in handy.
+1. [Morwenn's blog](https://morwenn.github.io/) - Really interesting articles
 
 #### Tests
 1. [Atlas of Surveillance](https://www.atlasofsurveillance.org/) - Tracks surveillance media per location.
