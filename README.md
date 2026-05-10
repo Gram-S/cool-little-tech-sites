@@ -44,6 +44,7 @@ A list of sites I found particularly cool or helpful. Format heavily inspired by
 1. [Image Measurement](https://imageonline.io/measure-image/) - Taking measurements within images using a reference line
 1. [Black/White Alternatives](https://x.com/UiSavior/status/2018290266696728896) - Alternatives to the colors black and white
 1. [Project Nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Turns a computer into an offline survival hub. Focus on Ai tools.
+1. [Adobe Palettes](https://color.adobe.com/create/color-wheel) - Probably the best color palette generator.
  
 
 
