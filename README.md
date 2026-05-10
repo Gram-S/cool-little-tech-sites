@@ -28,7 +28,7 @@ A list of sites I found particularly cool or helpful. Format heavily inspired by
 1. [Wikipedia Backup](https://drive.proton.me/urls/E20HD2HWMM#kzI4hvMsUDZb) - Full wikipedia download
 1. [Math and Science Courses](https://github.com/Developer-Y/math-science-video-lectures) - Comprehensive list of complete, free math and science courses w/ video lectures 
 1. [How to build X](https://github.com/codecrafters-io/build-your-own-x) - Comprehensive tutorials of code projects 
-
+1. [Free Media Heck yeah](https://fmhy.net/beginners-guide) - Lots of info on free media
 
 ## Tools
 
@@ -36,6 +36,7 @@ A list of sites I found particularly cool or helpful. Format heavily inspired by
 1. [Ascii Diagram Maker](https://asciiflow.com/#/) - Creating diagrams using ascii art
 1. [Vertopal](https://www.vertopal.com/) - Best online document converter
 1. [LLM Problem Benchmark](https://ccbench.org/#results) - How good is Ai solving problems not in their database?
+1. [Webaim](https://webaim.org/resources/) - Make sure any website you make follows WCAG accessibility guidelines, so that it's legal
 
 #### Graphic Design
 1. [Color Palette Generator](https://coolors.co/) - Probably the best and easiest to use for graphic design
@@ -62,6 +63,7 @@ A list of sites I found particularly cool or helpful. Format heavily inspired by
 1. [Git Grader](https://gitroll.io/) - Site that grades your github for job-seeking purposes
 1. [Code Language Benchmarks](https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html) - Benchmarks for programming languages
 1. [Code Carbon](https://codecarbon.io/) - Analyzing CO2 emissions from a program
+1. [Competitive Algorithms](https://cp-algorithms.com/) - Wikipedia but for algorithms
 
 #### Math
 1. [Overleaf](https://www.overleaf.com/) - Free online LaTeX editor
@@ -73,7 +75,7 @@ A list of sites I found particularly cool or helpful. Format heavily inspired by
 
 
 ## Packages
-1. [Raylib](https://www.raylib.com/) - Easy library for video game design
+1. [Raylib](https://www.raylib.com/) - Easy library for video game design.
 1. [Witr](https://github.com/pranshuparmar/witr) - CLI tools that tell you why a process is running
 1. [Hyperfine](https://www.opensourceprojects.dev/post/6416de39-e7e4-4876-85a1-fd11d949784f) - Benchmark terminal commands  
 
@@ -95,27 +97,34 @@ A list of sites I found particularly cool or helpful. Format heavily inspired by
 1. [Your Ai Slop Bores Me](https://youraislopbores.me/) - Game where YOU'RE the llm generating art for others.
 1. [Powerscadle](https://www.powerscadle.com/infinite) - Guess which fictional character is stronger
 1. [Real or Slop?](https://slop.zackg.me/) - Gives PL research papers, decide which ones are real or Ai-Generated
+1. [McGachapon](https://www.mcgachapon.com/) - McDonalds toy gacha simulator
+1. [Arcprize](https://arcprize.org/) - Lots of simple pixel games. For benchmarking AGI
+1. [Wikirace](https://wiki-race.com/) - Speedrun from one wikipedia article to another
+1. [Classic Minecraft](https://classic.minecraft.net/) - Classic Minecraft you can play for free in your browser
+1. [Late sh](https://github.com/mpiorowski/late-sh) - Chatroom & minigames for developers with a terminal command.
+1. [Tex typesetting](https://texnique.xyz/) - Make Tex equations as fast as you can.
 
 ## Privacy Sites 
 
 #### Articles
-1. [Muckrock](https://www.muckrock.com/news/) - The best news source regarding privacy and political transparency, provides tools as well
-1. [Electronic Frontier Foundation](https://www.eff.org/) - News source more focused towards privacy, provides privacy tools 
-1. [See Downloads](https://iknowwhatyoudownload.com/en/peer/) - Lookup for IP addresses regarding which torrents they downloaded
-1. [OSNIT Framework](https://osintframework.com/) - Comprehensive list of sites and tools for gathering information
+1. [Muckrock](https://www.muckrock.com/news/) - The best news source regarding privacy and political transparency, provides tools as well.
+1. [Electronic Frontier Foundation](https://www.eff.org/) - News source more focused towards privacy, provides privacy tools. 
+1. [See Downloads](https://iknowwhatyoudownload.com/en/peer/) - Lookup for IP addresses regarding which torrents they downloaded.
+1. [OSNIT Framework](https://osintframework.com/) - Comprehensive list of sites and tools for gathering information.
+1. [Life without plasitc](https://lifewithoutplastic.com/pages/stainless-steel) - Techinically a health site but really cool, if we ever develop nanomachines with spying capabilities this could come in handy.
 
 #### Tests
-1. [Atlas of Surveillance](https://www.atlasofsurveillance.org/) - Tracks surveillance media per location
-1. [Cover your Tracks](https://coveryourtracks.eff.org/) - Browser fingerprinting test
+1. [Atlas of Surveillance](https://www.atlasofsurveillance.org/) - Tracks surveillance media per location.
+1. [Cover your Tracks](https://coveryourtracks.eff.org/) - Browser fingerprinting test.
   
 
 
 ## Tutorials
-1. [Text Editor](https://viewsourcecode.org/snaptoken/kilo/) - Building your own text editor in C
-1. [Virtual Machine](https://www.jmeiners.com/lc3-vm/) - Building your own virtual machine in basic C/C++, requires binary arithmetic
-1. [Build SQL Database](https://cstack.github.io/db_tutorial/) - Informative C tutorial for how to build a database
-1. [Deep Ml](https://www.deep-ml.com/) - Machine Learning/Data Science practice
-1. [Draw.io Trick](https://github.com/jgraph/drawio/issues/1677) - Display line lengths in draw.io
-1. [Leetcode](https://leetcode.com/) - Coding challenges and practice
-1. [GetCracked](https://getcracked.io/) - More (better?) coding pracitce
-1. [Full Quantum Physics Course](https://x.com/brainrotpostig/status/2010141355972919541) - Physics 4200 Spring 2023 Dr. Brant Carlson lecture in 480p
+1. [Text Editor](https://viewsourcecode.org/snaptoken/kilo/) - Building your own text editor in C.
+1. [Virtual Machine](https://www.jmeiners.com/lc3-vm/) - Building your own virtual machine in basic C/C++, requires binary arithmetic.
+1. [Build SQL Database](https://cstack.github.io/db_tutorial/) - Informative C tutorial for how to build a database.
+1. [Deep Ml](https://www.deep-ml.com/) - Machine Learning/Data Science practice.
+1. [Draw.io Trick](https://github.com/jgraph/drawio/issues/1677) - Display line lengths in draw.io.
+1. [Leetcode](https://leetcode.com/) - Coding challenges and practice.
+1. [GetCracked](https://getcracked.io/) - More (better?) coding practice.
+1. [Full Quantum Physics Course](https://x.com/brainrotpostig/status/2010141355972919541) - Physics 4200 Spring 2023 Dr. Brant Carlson lecture in 480p.
