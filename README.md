@@ -72,7 +72,7 @@ A list of sites I found particularly cool or helpful. Format heavily inspired by
 1. [LaTeX Diagram Builder](https://tikzmaker.com/editor) - GUI for building diagrams in LaTeX using the tikz/tikzpicture package
 1. [Combination Calculator](https://www.statskingdom.com/combinations-calculator.html) - Visualing combinatorics like permutations with formulas
 1. [Differential Growth Viewer](https://ekimroyrp.github.io/260308_DifferentialGrowth/) - Okay full disclosure I don't *actually* know what this does but it seems pretty cool. 
-
+1. [Word Safety](http://wordsafety.com/) - For writing, make sure names don't have bad meanings in other languages. 
 
 
 ## Packages
