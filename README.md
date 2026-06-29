@@ -29,6 +29,9 @@ A list of sites I found particularly cool or helpful. Format heavily inspired by
 1. [Math and Science Courses](https://github.com/Developer-Y/math-science-video-lectures) - Comprehensive list of complete, free math and science courses w/ video lectures 
 1. [How to build X](https://github.com/codecrafters-io/build-your-own-x) - Comprehensive tutorials of code projects 
 1. [Free Media Heck yeah](https://fmhy.net/beginners-guide) - Lots of info on free media
+1. [Ai Watchdog](https://ai-watchdog.k8s-prod.theatlantic.com/datasets) - See what types of stuff Ai steals and from where
+1. [Ascii Title Creator](https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type+Something+&x=none&v=4&h=4&w=80&we=false) - Create cool text-only logos
+1. [Word Safety](http://wordsafety.com/) - Check if words have bad meanings in other languages
 
 ## Tools
 
@@ -37,6 +40,9 @@ A list of sites I found particularly cool or helpful. Format heavily inspired by
 1. [Vertopal](https://www.vertopal.com/) - Best online document converter
 1. [LLM Problem Benchmark](https://ccbench.org/#results) - How good is Ai solving problems not in their database?
 1. [Webaim](https://webaim.org/resources/) - Make sure any website you make follows WCAG accessibility guidelines, so that it's legal
+1. [Cobalt Tools](https://cobalt.tools/) - For downloading anything from any social media
+1. [Nerd Font Symbols](https://www.nerdfonts.com/cheat-sheet) - For symbols in Nerd Font that can be used in lua programs
+
 
 #### Graphic Design
 1. [Color Palette Generator](https://coolors.co/) - Probably the best and easiest to use for graphic design
@@ -46,7 +52,7 @@ A list of sites I found particularly cool or helpful. Format heavily inspired by
 1. [Project Nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Turns a computer into an offline survival hub. Focus on Ai tools.
 1. [Adobe Palettes](https://color.adobe.com/create/color-wheel) - Probably the best color palette generator.
 1. [Sora's Pixel Converter](https://pixel-converter.ameniwa.com/) - A great Gui for creating/converting images to pixel art. 
-
+1. [Texture Ripper](https://dinorip.lakebed.app/) - Rip textures from images. 
  
 
 
@@ -107,6 +113,13 @@ A list of sites I found particularly cool or helpful. Format heavily inspired by
 1. [Classic Minecraft](https://classic.minecraft.net/) - Classic Minecraft you can play for free in your browser
 1. [Late sh](https://github.com/mpiorowski/late-sh) - Chatroom & minigames for developers with a terminal command.
 1. [Tex typesetting](https://texnique.xyz/) - Make Tex equations as fast as you can.
+1. [Metazooa](https://metazooa.com/play/game) - Tree of life guessing game involving animals and species
+1. [sqlnt dev Projects](https://www.slqnt.dev/projects) - A web porter who puts things like half-life 2 and portal on the web
+1. [Messenger](https://messenger.abeto.co/) - A cool game about delivering messages
+1. [Meow.camera](https://meow.camera/#5144313095337151915) - Watch hungry cats eat food
+1. [Teto Song Maker?](https://aidn.jp/tetohira/) - Don't ask why I like this
+1. [Pebble](https://github.com/thebriangao/pebble) - Free minecraft alternative
+
 
 ## Privacy Sites 
 
@@ -121,8 +134,6 @@ A list of sites I found particularly cool or helpful. Format heavily inspired by
 #### Tests
 1. [Atlas of Surveillance](https://www.atlasofsurveillance.org/) - Tracks surveillance media per location.
 1. [Cover your Tracks](https://coveryourtracks.eff.org/) - Browser fingerprinting test.
-  
-
 
 ## Tutorials
 1. [Text Editor](https://viewsourcecode.org/snaptoken/kilo/) - Building your own text editor in C.
@@ -132,4 +143,5 @@ A list of sites I found particularly cool or helpful. Format heavily inspired by
 1. [Draw.io Trick](https://github.com/jgraph/drawio/issues/1677) - Display line lengths in draw.io.
 1. [Leetcode](https://leetcode.com/) - Coding challenges and practice.
 1. [GetCracked](https://getcracked.io/) - More (better?) coding practice.
+1. [Michael Pyrcz](https://michaelpyrcz.com/my-publications) - Data Science Professor that usually releases his lectures and textbooks for free. 
 1. [Full Quantum Physics Course](https://x.com/brainrotpostig/status/2010141355972919541) - Physics 4200 Spring 2023 Dr. Brant Carlson lecture in 480p.
