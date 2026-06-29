@@ -23,7 +23,6 @@ A list of sites I found particularly cool or helpful. Format heavily inspired by
 
 ## Databases
 1. [Free Software](https://github.com/johnjago/awesome-free-software) - List of free software organized by type
-1. [Web Foss Sites](https://x.com/Itsfoss/status/2011453723252514963) - 13 Open Source Apps usuable in a web browser
 1. [AlternativeTo](https://alternativeto.net/) - Big tech alternatives, quanity over quality approach
 1. [Wikipedia Backup](https://drive.proton.me/urls/E20HD2HWMM#kzI4hvMsUDZb) - Full wikipedia download
 1. [Math and Science Courses](https://github.com/Developer-Y/math-science-video-lectures) - Comprehensive list of complete, free math and science courses w/ video lectures 
