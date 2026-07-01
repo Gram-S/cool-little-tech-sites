@@ -51,7 +51,8 @@ A list of sites I found particularly cool or helpful. Format heavily inspired by
 1. [Project Nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Turns a computer into an offline survival hub. Focus on Ai tools.
 1. [Adobe Palettes](https://color.adobe.com/create/color-wheel) - Probably the best color palette generator.
 1. [Sora's Pixel Converter](https://pixel-converter.ameniwa.com/) - A great Gui for creating/converting images to pixel art. 
-1. [Texture Ripper](https://dinorip.lakebed.app/) - Rip textures from images. 
+1. [Texture Ripper](https://dinorip.lakebed.app/) - Rip textures from images.
+1. [Pose Search](https://x6ud.github.io/pose-search) - Find poses based on a particular limb. 
  
 
 
