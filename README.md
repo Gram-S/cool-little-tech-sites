@@ -62,6 +62,7 @@ A list of sites I found particularly cool or helpful. Format heavily inspired by
 1. [Browser Benchmark](https://browserbench.org/) - Benchmarks for browsers.
 1. [Atlas of Surveillance](https://www.atlasofsurveillance.org/) - Tracks surveillance media per location.
 1. [Cover your Tracks](https://coveryourtracks.eff.org/) - Browser fingerprinting test.
+1. [Example Domains](https://www.iana.org/help/example-domains) - Examples for web development.
 
 #### References
 1. [Html](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference).
