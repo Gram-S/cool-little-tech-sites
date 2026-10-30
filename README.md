@@ -5,32 +5,19 @@ A list of sites I found particularly cool or helpful. Format heavily inspired by
 <!-- MarkdownTOC depth=4 -->
 - [Cool Little Tech Sites](#cool-little-tech-sites--)
     - [Table of Contents](#table-of-contents)
-    - [Databases](#databases)
     - [Tools](#utility)
         - [Documents](#documents)
         - [Graphic Design](#graphic-design)
     - [Helpful Sites](#helpful-sites)
-        - [Hardware](#hardware)
         - [Software](#software)
-        - [Math](#math)
+        - [References](#references)
+        - [Academia/Writing](#academia/writing)
+        - [Hardware](#hardware)
+
     - [Packages](#packages)
     - [Fun Sites](#fun-sites)
-    - [Privacy Sites](#privacy-sites)
-        - [Articles](#articles)
-        - [Tests](#tools)
     - [Tutorials](#tutorials)
 <!-- /MarkdownTOC -->
-
-## Databases
-1. [Free Software](https://github.com/johnjago/awesome-free-software) - List of free software organized by type
-1. [AlternativeTo](https://alternativeto.net/) - Big tech alternatives, quanity over quality approach
-1. [Wikipedia Backup](https://drive.proton.me/urls/E20HD2HWMM#kzI4hvMsUDZb) - Full wikipedia download
-1. [Math and Science Courses](https://github.com/Developer-Y/math-science-video-lectures) - Comprehensive list of complete, free math and science courses w/ video lectures 
-1. [How to build X](https://github.com/codecrafters-io/build-your-own-x) - Comprehensive tutorials of code projects 
-1. [Free Media Heck yeah](https://fmhy.net/beginners-guide) - Lots of info on free media
-1. [Ai Watchdog](https://ai-watchdog.k8s-prod.theatlantic.com/datasets) - See what types of stuff Ai steals and from where
-1. [Ascii Title Creator](https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type+Something+&x=none&v=4&h=4&w=80&we=false) - Create cool text-only logos
-1. [Word Safety](http://wordsafety.com/) - Check if words have bad meanings in other languages
 
 ## Tools
 
@@ -41,6 +28,9 @@ A list of sites I found particularly cool or helpful. Format heavily inspired by
 1. [Webaim](https://webaim.org/resources/) - Make sure any website you make follows WCAG accessibility guidelines, so that it's legal
 1. [Cobalt Tools](https://cobalt.tools/) - For downloading anything from any social media
 1. [Nerd Font Symbols](https://www.nerdfonts.com/cheat-sheet) - For symbols in Nerd Font that can be used in lua programs
+1. [Word Safety](http://wordsafety.com/) - Check if words have bad meanings in other languages
+1. [InBrowser Tools](https://inbrowser.app/) - Many browser based tools such as File Converters and QR generators.
+
 
 
 #### Graphic Design
@@ -58,11 +48,7 @@ A list of sites I found particularly cool or helpful. Format heavily inspired by
 
 ## Helpful Sites
 
-#### Hardware
-1. [Video Card Benchmarks](https://www.videocardbenchmark.net/) - Benchmarks for video cards
-1. [How many FPS](https://howmanyfps.com/graphics-cards) - Tells you average FPS hardware gets for a game
-1. [PC Builder](https://pcpartpicker.com/) - PC building simulator/planner
-1. [Linux Supported WiFi Adapters](https://github.com/morrownr/USB-WiFi/blob/main/home/USB_WiFi_Adapters_that_are_supported_with_Linux_in-kernel_drivers.md) - List of WiFi adapters that require no configuration on linux
+
 
 #### Software
 1. [Delphi Tools](https://delphi.tools/) - An enormous collection of easy to use graphic design tools like palette generators.
@@ -73,21 +59,38 @@ A list of sites I found particularly cool or helpful. Format heavily inspired by
 1. [Code Language Benchmarks](https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html) - Benchmarks for programming languages
 1. [Code Carbon](https://codecarbon.io/) - Analyzing CO2 emissions from a program
 1. [Competitive Algorithms](https://cp-algorithms.com/) - Wikipedia but for algorithms
-1. [Browser Benchmark](https://browserbench.org/) - Benchmarks for browsers. 
+1. [Browser Benchmark](https://browserbench.org/) - Benchmarks for browsers.
+1. [Atlas of Surveillance](https://www.atlasofsurveillance.org/) - Tracks surveillance media per location.
+1. [Cover your Tracks](https://coveryourtracks.eff.org/) - Browser fingerprinting test.
 
-#### Math
+#### References
+1. [Html](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference).
+1. [Numpy](https://numpy.org/doc/stable/reference/index.html).
+1. [Pandas](https://pandas.pydata.org/docs/).
+1. [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference).
+1. [Observable](https://observablehq.github.io/plot/getting-started).
+1. [Observable Plot Gallery](https://observablehq.com/@observablehq/plot-gallery) - Examples of using observable plots. 
+
+#### Academia/Writing
 1. [Overleaf](https://www.overleaf.com/) - Free online LaTeX editor
 1. [LaTeX Symbols](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols) - How to use every special LaTeX charecter ($\Sigma, \Omega, $ etc)
 1. [LaTeX Diagram Builder](https://tikzmaker.com/editor) - GUI for building diagrams in LaTeX using the tikz/tikzpicture package
 1. [Combination Calculator](https://www.statskingdom.com/combinations-calculator.html) - Visualing combinatorics like permutations with formulas
 1. [Differential Growth Viewer](https://ekimroyrp.github.io/260308_DifferentialGrowth/) - Okay full disclosure I don't *actually* know what this does but it seems pretty cool. 
-1. [Word Safety](http://wordsafety.com/) - For writing, make sure names don't have bad meanings in other languages. 
+1. [Word Safety](http://wordsafety.com/) - For writing, make sure names don't have bad meanings in other languages.
+1. [Commkit](https://mitcommlab.mit.edu/eecs/use-the-commkit/) - Guides for scientific communication.
+1. [Abstractopedia](https://abstractopedia.org/) - Problems that have already been solved. For analyzing patterns that appear in problems.
+1. [Text Automata](https://textautomata.com/) - Generating text templates with variables so you can reuse the same template and just change a few things.
+1. [Erdos Problems](https://www.erdosproblems.com/) - Bunch of difficult unsolved/solved problems in mathematics.
+1. [Eportfolio Gallery](https://eportfolio.stanford.edu/eportfolio-gallery) - Example personal websites.
 
 
-## Packages
-1. [Raylib](https://www.raylib.com/) - Easy library for video game design.
-1. [Witr](https://github.com/pranshuparmar/witr) - CLI tools that tell you why a process is running
-1. [Hyperfine](https://www.opensourceprojects.dev/post/6416de39-e7e4-4876-85a1-fd11d949784f) - Benchmark terminal commands  
+
+#### Hardware
+1. [Video Card Benchmarks](https://www.videocardbenchmark.net/) - Benchmarks for video cards.
+1. [How many FPS](https://howmanyfps.com/graphics-cards) - Tells you average FPS hardware gets for a game.
+1. [PC Builder](https://pcpartpicker.com/) - PC building simulator/planner.
+1. [Linux Supported WiFi Adapters](https://github.com/morrownr/USB-WiFi/blob/main/home/USB_WiFi_Adapters_that_are_supported_with_Linux_in-kernel_drivers.md) - List of WiFi adapters that require no configuration on linux.
 
 
 
@@ -119,23 +122,29 @@ A list of sites I found particularly cool or helpful. Format heavily inspired by
 1. [Meow.camera](https://meow.camera/#5144313095337151915) - Watch hungry cats eat food
 1. [Teto Song Maker?](https://aidn.jp/tetohira/) - Don't ask why I like this
 1. [Pebble](https://github.com/thebriangao/pebble) - Free minecraft alternative
+1. [Arknights Stronghold Dev](https://stronghold-en.dev/_build/261018-182411/) - For playing the stronghold protocol mode in arknights.
+1. [Deltarune Fight Simulator](https://deltarunesim.com/) - Title. Has other modes like blackjack & touhou.
+1. [Flowery Garden Simulator](https://websim.com/@Larpsolete_gaming/flowery-sim) - Funny. 
+1. [Amazing Digital Fly](https://theamazingdigitalfly.com/) - Flies in a sandbox enviroment.
+1. [Dark Souls Dating Sim](https://plicy.net/GamePlay/234704).
 
 
-## Privacy Sites 
 
-#### Articles
+## Packages/Applications
+1. [Raylib](https://www.raylib.com/) - Easy library for video game design.
+1. [Witr](https://github.com/pranshuparmar/witr) - CLI tools that tell you why a process is running
+1. [Hyperfine](https://www.opensourceprojects.dev/post/6416de39-e7e4-4876-85a1-fd11d949784f) - Benchmark terminal commands
+1. [ghgrab](https://github.com/abhixdd/ghgrab) - Grabbing single branches/files for github. 
+
+
+
+## Recommended Reading/Tutorials/Practice
 1. [Muckrock](https://www.muckrock.com/news/) - The best news source regarding privacy and political transparency, provides tools as well.
 1. [Electronic Frontier Foundation](https://www.eff.org/) - News source more focused towards privacy, provides privacy tools. 
 1. [See Downloads](https://iknowwhatyoudownload.com/en/peer/) - Lookup for IP addresses regarding which torrents they downloaded.
 1. [OSNIT Framework](https://osintframework.com/) - Comprehensive list of sites and tools for gathering information.
 1. [Life without plasitc](https://lifewithoutplastic.com/pages/stainless-steel) - Techinically a health site but really cool, if we ever develop nanomachines with spying capabilities this could come in handy.
 1. [Morwenn's blog](https://morwenn.github.io/) - Really interesting articles
-
-#### Tests
-1. [Atlas of Surveillance](https://www.atlasofsurveillance.org/) - Tracks surveillance media per location.
-1. [Cover your Tracks](https://coveryourtracks.eff.org/) - Browser fingerprinting test.
-
-## Tutorials
 1. [Text Editor](https://viewsourcecode.org/snaptoken/kilo/) - Building your own text editor in C.
 1. [Virtual Machine](https://www.jmeiners.com/lc3-vm/) - Building your own virtual machine in basic C/C++, requires binary arithmetic.
 1. [Build SQL Database](https://cstack.github.io/db_tutorial/) - Informative C tutorial for how to build a database.
@@ -145,3 +154,13 @@ A list of sites I found particularly cool or helpful. Format heavily inspired by
 1. [GetCracked](https://getcracked.io/) - More (better?) coding practice.
 1. [Michael Pyrcz](https://michaelpyrcz.com/my-publications) - Data Science Professor that usually releases his lectures and textbooks for free. 
 1. [Full Quantum Physics Course](https://x.com/brainrotpostig/status/2010141355972919541) - Physics 4200 Spring 2023 Dr. Brant Carlson lecture in 480p.
+1. [Advanced R](https://adv-r.hadley.nz/)
+1. [Rust Textbook](https://doc.rust-lang.org/book/title-page.html)
+1. [Math and Science Courses](https://github.com/Developer-Y/math-science-video-lectures) - Comprehensive list of complete, free math and science courses w/ video lectures 
+1. [How to build X](https://github.com/codecrafters-io/build-your-own-x) - Comprehensive tutorials of code projects 
+1. [Free Media Heck yeah](https://fmhy.net/beginners-guide) - Lots of info on free media
+1. [Ai Watchdog](https://ai-watchdog.k8s-prod.theatlantic.com/datasets) - See what types of stuff Ai steals and from where
+1. [Ascii Title Creator](https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type+Something+&x=none&v=4&h=4&w=80&we=false) - Create cool text-only logos
+1. [Free Software](https://github.com/johnjago/awesome-free-software) - List of free software organized by type
+1. [AlternativeTo](https://alternativeto.net/) - Big tech alternatives, quanity over quality approach
+1. [Wikipedia Backup](https://drive.proton.me/urls/E20HD2HWMM#kzI4hvMsUDZb) - Full wikipedia download
