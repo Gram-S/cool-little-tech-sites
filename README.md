@@ -127,6 +127,7 @@ A list of sites I found particularly cool or helpful. Format heavily inspired by
 1. [Flowery Garden Simulator](https://websim.com/@Larpsolete_gaming/flowery-sim) - Funny. 
 1. [Amazing Digital Fly](https://theamazingdigitalfly.com/) - Flies in a sandbox enviroment.
 1. [Dark Souls Dating Sim](https://plicy.net/GamePlay/234704).
+1. [I want checkmate](https://iwantcheckmate.com/#/) - Funny chess. 
 
 
 
