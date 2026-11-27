@@ -51,6 +51,7 @@ A list of sites I found particularly cool or helpful. Format heavily inspired by
 
 
 #### Software
+1. [StagePeek](https://stagepeek.live/) - Interactive 2D seating maps & 3D concert stage-view simulator across 201 global venues with 1x–10x camera zoom (free first-seat preview, no login required; Freemium)
 1. [Delphi Tools](https://delphi.tools/) - An enormous collection of easy to use graphic design tools like palette generators.
 1. [Free CSS templates](https://templatemo.com/page/1) - Free CSS templates for website designers
 1. [Free CSS Frontend](https://freefrontend.com/) - Stuff like custom buttons, sliders, dioramas, and games to add to a website
